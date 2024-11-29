@@ -2,7 +2,7 @@
 
 *Desenvolvedor Backend*
 
-Me chamo Anderson Araujo, tenho 21 anos e sou natural de Salvador-BA. Concluí o ensino médio no Colegio Central da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI. 
+Me chamo Anderson Araujo, tenho 21 anos e sou natural de Salvador-BA. Concluí o ensino médio no Colegio Central da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI DENDEZEIROS. 
 Amo desafios e estou sempre buscando novas formas de aprender e evoluir como desenvolvedor. Quando não estou desenvolvendo, me dedico a projetos pessoais e acadêmicos, focado em construir um portfólio que reflita minha dedicação e crescimento na área de TI.
 
 
