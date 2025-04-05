@@ -2,8 +2,15 @@
 
 *Desenvolvedor Backend*
 
-Me chamo Anderson Araujo, tenho 21 anos e sou natural de Salvador-BA. Concluí o ensino médio no Colegio Central da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI DENDEZEIROS. 
-Amo desafios e estou sempre buscando novas formas de aprender e evoluir como desenvolvedor. Quando não estou desenvolvendo, me dedico a projetos pessoais e acadêmicos, focado em construir um portfólio que reflita minha dedicação e crescimento na área de TI.
+👋 Olá! Me chamo Anderson Araújo, tenho 21 anos e sou natural de Salvador - BA.
+
+🎓 Concluí o ensino médio no Colégio Central da Bahia e recentemente finalizei o curso técnico em Análise e Desenvolvimento de Sistemas pelo SENAI Dendezeiros.
+
+💡 Sou apaixonado por tecnologia e desafios. Estou sempre em busca de aprender coisas novas e evoluir como desenvolvedor — seja por meio de estudos, projetos pessoais ou experiências práticas no dia a dia.
+
+🛠️ Fora do ambiente profissional, gosto de me dedicar a projetos acadêmicos e pessoais que me ajudem a construir um portfólio sólido e autêntico, refletindo minha dedicação, aprendizado constante e crescimento na área de TI.
+
+🚀 Estou pronto para novos desafios e oportunidades que me permitam seguir contribuindo com inovação, criatividade e propósito.
 
 
   <p>
